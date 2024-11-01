@@ -10,5 +10,6 @@ This repository features "Museum-of-Candy," a simple practice project utilizing 
 
 # Related Projects
 -  [BootStrap Basics](https://github.com/TylrPopcorn/Bootstrap-Basics) - *Learn how to use BootStrap*
+-  [Stop Watch](https://github.com/TylrPopcorn/Stop-Watch) - *Use a virtual stop watch with Svelte.js*
 -  [Doggo Form](https://github.com/TylrPopcorn/Doggo-Form) - *View breeds of dogs using React.js Class Components!*
 -  [Projects List](https://github.com/TylrPopcorn/Projects-List) - *Explore other projects I have worked on*
